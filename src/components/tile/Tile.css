@@ -1,0 +1,33 @@
+.tile {
+    margin: 16px;
+}
+
+.tile figure {
+    margin: 0;
+}
+
+.tile-title {
+    background: red;
+}
+
+.btn {
+    padding: 8px;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    margin: 8px 0;
+    width: 100%;
+}
+
+.btn-remove {
+    background-color:  #F44336;
+    
+}
+
+.btn-add {
+    background-color:  #009688;
+}
+
+.action-container {
+    height: 50px;
+}
